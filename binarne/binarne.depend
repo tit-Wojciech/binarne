@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590741797 source:d:\users\wojtek\programowanie\binarne\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<math.h>
+	<string>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+

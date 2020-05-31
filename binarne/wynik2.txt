@@ -1,0 +1,2 @@
+Liczb podzielnych przez 2 jest: 500
+Liczb podzielnych przez 8 jest: 123

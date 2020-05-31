@@ -1,0 +1,1 @@
+Liczb w ktorych jest wiecej 0 niz 1 jest: 422
